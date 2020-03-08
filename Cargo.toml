@@ -1,0 +1,7 @@
+[workspace]
+members=[
+    "grpc-gateway",
+    "grpc-gateway-build",
+    # Non-published crates
+    "examples"
+]
